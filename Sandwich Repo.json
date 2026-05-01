@@ -1,0 +1,150 @@
+{
+  "name": "Sandwich Repo",
+  "subtitle": "Om Nom Nom",
+  "description": "Emmex's Repo",
+  "iconURL": "https://i.imgur.com/uN3xJD4.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#ff9100",
+  "featuredApps": [
+    "nt.nb.ios",
+    "com.clickgamer.AngryBirds",
+    "com.scottgames.fivenights",
+    "com.zuuks.bus.simulator.ultimate"
+  ],
+  "headerURL": "https://i.imgur.com/jOD4NDk.jpeg",
+  "apps": [
+    {
+      "name": "Bus Simulator Ultimate",
+      "bundleIdentifier": "com.zuuks.bus.simulator.ultimate",
+      "marketplaceID": "",
+      "developerName": "Emmex",
+      "subtitle": "Otobüs Sürüyon",
+      "localizedDescription": "Zuuks Games İyi Yolculuklar Diler :)",
+      "iconURL": "https://i.imgur.com/6BIL1Ak.png",
+      "tintColor": "#de4964",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "252",
+          "date": "2026-04-30T19:53:00+03:00",
+          "localizedDescription": "Hiçbir B.k Eklenmedi",
+          "downloadURL": "https://www.zuuks.com",
+          "size": 1230500000,
+          "buildVersion": "1",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This app doesn't use this property",
+          "NSLocationAlwaysUsageDescription": "This app doesn't use this property",
+          "NSLocationWhenInUseUsageDescription": "This app doesn't use this property",
+          "NSMicrophoneUsageDescription": "This app doesn't use this property",
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSUserTrackingUsageDescription": "We try to show ads for apps and products that will be most interesting to you based on the apps you use, the device you are on, and the country you are in."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Emmex",
+      "subtitle": "Hileli BS",
+      "localizedDescription": "Hileli BS İşte Mk",
+      "iconURL": "https://i.imgur.com/a0XqzFa.png",
+      "tintColor": "#8c1cd4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "66.293",
+          "date": "2026-04-30T19:50:00+03:00",
+          "localizedDescription": "Düz Null's Brawl Aq",
+          "downloadURL": "https://null-brawl.org/#google_vignette",
+          "size": 1053900000,
+          "buildVersion": "1",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
+          "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Classic",
+      "bundleIdentifier": "com.clickgamer.AngryBirds",
+      "marketplaceID": "",
+      "developerName": "Emmex",
+      "subtitle": "Kuşla Domuz S.kmece",
+      "localizedDescription": "Kuş Domuz Ve Kutu.",
+      "iconURL": "https://i.imgur.com/u3YAn24.png",
+      "tintColor": "#10a8d6",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "7.9.6",
+          "date": "2026-04-30T19:49:00+03:00",
+          "localizedDescription": "Kuşa S.çma Özelliği eklendi",
+          "downloadURL": "https://www.angrybirds.com",
+          "size": 97700000,
+          "buildVersion": "1",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Taking pictures",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSCalendarsUsageDescription": "Adding events"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "marketplaceID": "",
+      "developerName": "Emmex",
+      "subtitle": "Fnaf1",
+      "localizedDescription": "LAN DAVŞAN GELİYO MK",
+      "iconURL": "https://i.imgur.com/ZWpBFE1.png",
+      "tintColor": "#b45c24",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.5",
+          "date": "2026-04-30T19:45:00+03:00",
+          "localizedDescription": "Freddy'e 31 Özelliği Eklendi",
+          "downloadURL": "https://en.wikipedia.org/wiki/Scott_Cawthon",
+          "size": 108800000,
+          "buildVersion": "1",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
